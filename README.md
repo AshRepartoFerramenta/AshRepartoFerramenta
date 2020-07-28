@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/5be6d2dfaebd8c870747142dd0e05b4f86db04bc/images.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background" width=350px height=465px/>
+
 ### Hi there 👋 I'm Damiano 
 
 <!--
