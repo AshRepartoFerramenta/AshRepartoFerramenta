@@ -3,6 +3,8 @@
 ### Hi Everyone 👋 I'm Damiano 
 
 
+
+
 ... Aka "Ash" , a new guy in this huge DevWorld . After a long time spent on Financial and Marketing fields 
 
 I've decided to move on a different place studing as to become a Full Stack Web Dev 
