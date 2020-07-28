@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/794f9906d88e7f808ce89e26580a031fd2e05b48/coder.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background"  width=400px height=500px/>
+<img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/794f9906d88e7f808ce89e26580a031fd2e05b48/coder.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background"  width=365px height=465px/>
 
 ### Hi there 👋 I'm Damiano 
 
