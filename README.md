@@ -1,9 +1,7 @@
-<img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/5be6d2dfaebd8c870747142dd0e05b4f86db04bc/images.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background" width=350px height=465px/>
+<img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/5be6d2dfaebd8c870747142dd0e05b4f86db04bc/images.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background" width=350px height=365px/>
 
 ### Hi there 👋 I'm Damiano 
 
-<!--
-**AshRepartoFerramenta/AshRepartoFerramenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi Everyone,
 I'm Damiano Aka Ash,a new guy in this huge DevWorld .After a long time spent on Financial and Marketing fields I've decided to move on a different place studing
