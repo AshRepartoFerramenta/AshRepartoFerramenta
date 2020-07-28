@@ -10,7 +10,7 @@
 
 to move on a different place studing as to become a Full Stack Web Dev and learn as much as I can how to increase my knowledge .
 
-Love my life,my dog and my wife.
+Love my life,dog and wife.
 
 I'm an Optimistic person,nature and travel lovers.
 
