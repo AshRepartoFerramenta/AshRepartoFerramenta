@@ -2,7 +2,7 @@
 
 ### Hi Everyone 👋 I'm Damiano 
 
-
+💻
 
 
 ... Aka "Ash" , a new guy in this huge DevWorld . After a long time spent on Financial and Marketing fields 
@@ -16,7 +16,7 @@ I'm an Optimistic person,nature and travel lovers.
 
 - 🔭 I’m currently working on calm,spend a lot of time on my MacBro.
 
-- 🌱 I’m currently learning How To Became a Good Dev.
+- 🌱 I’m currently learning How To Became a Good Developer.
 
 - 👯 I’m looking to collaborate on any Full Stack Project.
 
@@ -28,4 +28,4 @@ I'm an Optimistic person,nature and travel lovers.
 
 - 😄 I Like: Cookin'Italian Food,Summertime,Reading,Travel.
 
-- ⚡ Fun fact: I wanna be a Master on Sicilian History .
+- 🦧 Fun fact: I wanna be a Master on Sicilian History .
