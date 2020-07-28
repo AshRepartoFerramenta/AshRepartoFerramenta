@@ -5,11 +5,11 @@
 
 Hi Everyone,
 
-I'm Damiano Aka Ash,a new guy in this huge DevWorld .After a long time spent on Financial and Marketing fields I've decided to move on a different place studing
+I'm Damiano Aka Ash,a new guy in this huge DevWorld .After a long time spent on Financial and Marketing fields I've decided to move on a different 
 
-as to become a Full Stack Web Dev and learn as much as I can how to increase my knowledge.Love my life,my dog and my wife.I'm an Optimistic person,nature and 
+place studing as to become a Full Stack Web Dev and learn as much as I can how to increase my knowledge.Love my life,my dog and my wife.
 
-travel lovers.
+I'm an Optimistic person,nature and travel lovers.
 
 - 🔭 I’m currently working on calm,spend a lot of time on my MacBro.
 
