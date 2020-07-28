@@ -1,15 +1,16 @@
 <img align="right" src="https://github.com/AshRepartoFerramenta/AshRepartoFerramenta/blob/794f9906d88e7f808ce89e26580a031fd2e05b48/coder.jpg?raw=true" alt="Illustration of Damiano working at a conference with strange colours in background"  width=365px height=400px/>
 
-### Hi there 👋 I'm Damiano 
+### Hi Everyone 👋 I'm Damiano 
 
 
-Hi Everyone,
+... Aka "Ash" , a new guy in this huge DevWorld . After a long time spent on Financial and Marketing fields 
 
-I'm Damiano Aka "Ash" , a new guy in this huge DevWorld . After a long time spent on Financial and Marketing fields I've decided to move on a different 
+I've decided to move on a different place studing as to become a Full Stack Web Dev 
 
-place studing as to become a Full Stack Web Dev and learn as much as I can how to increase my knowledge . Love my life,my dog and my wife.
+and learn as much as I can how to increase my knowledge . Love my life,my dog and my wife.
 
 I'm an Optimistic person,nature and travel lovers.
+
 
 - 🔭 I’m currently working on calm,spend a lot of time on my MacBro.
 
