@@ -7,12 +7,8 @@
 
 
 ... Aka "Ash" , a new guy in this huge DevWorld . After a long time spent on Financial and Marketing fields I've decided 
-
 to move on a different place studing as to become a Full Stack Web Dev and learn as much as I can how to increase my knowledge .
-
-Love my life,dog and wife.
-
-I'm an Optimistic person,nature and travel lovers.
+Love my life,dog and wife.I'm an Optimistic person,nature and travel lovers.
 
 
 - 🔭 I’m currently working on calm,spend a lot of time on my MacBro.
