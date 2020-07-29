@@ -30,3 +30,7 @@ I'm an Optimistic person,nature and travel lovers.
 - 😄 I Like: Cookin'Italian Food,Summertime,Reading,Travel.
 
 - 🦧 Fun fact: I wanna be a Master on Sicilian History .
+
+
+
+[! [Statistiche github di Ash] (https://github-readme-stats.vercel.app/api ? Username = AshRepartoFerramenta )] (https://github.com/AshRepartoFerramenta/AshRepartoFerramenta)
