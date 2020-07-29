@@ -23,10 +23,8 @@ I'm an Optimistic person,nature and travel lovers.
 
 - 💬 Ask me about to collaborate .
 
-- 📫 How to reach me: (Linkedin)
-
-     https://www.linkedin.com/in/damiano-giovanni-capodicasa-7a8a53164/ 
-
+- 📫 How to reach me: [here](https://www.linkedin.com/in/damiano-giovanni-capodicasa-7a8a53164/)
+ 
 - 😄 I Like: Cookin'Italian Food,Summertime,Reading,Travel.
 
 - 🦧 Fun fact: I wanna be a Master on Sicilian History .
