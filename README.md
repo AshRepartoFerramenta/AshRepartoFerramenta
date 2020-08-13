@@ -38,3 +38,4 @@ Love my life,dog and wife.I'm an Optimistic person,nature and travel lovers.
 
 
 ![AshRepartoFerramenta github stats](https://github-readme-stats.vercel.app/api?username=AshRepartoFerramenta&show_icons=true&theme=tokyonight)
+![AshRepartoFerramenta github stats](https://github-readme-stats.vercel.app/api?username=AshRepartoFerramenta&show_icons=true&theme=radical)
