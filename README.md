@@ -37,5 +37,4 @@ Love my life,dog and wife.I'm an Optimistic person,nature and travel lovers.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 
-![AshRepartoFerramenta github stats](https://github-readme-stats.vercel.app/api?username=AshRepartoFerramenta&show_icons=true&theme=tokyonight)
 ![AshRepartoFerramenta github stats](https://github-readme-stats.vercel.app/api?username=AshRepartoFerramenta&show_icons=true&theme=radical)
